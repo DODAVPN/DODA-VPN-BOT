@@ -1,0 +1,18 @@
+{
+  "name": "dodahelper",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "simon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
